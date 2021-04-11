@@ -4,7 +4,8 @@ Oi !!! :wave: Eu sou ***Marcos Rodrigues*** sou estudante e entusiasta em desenv
 
 Em busca de uma oportunidade para por meus conhecimentos em pratica e também para aprender mais tanto em Backend ou Frontend.
 
-**próximos passos:** Aprender a escrever testes, desenvolvimento mobile, criar pipelines e aprimorar meus conhecimentos em contêineres.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MarKus-del)](https://github.com/MarKus-del)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-rodrigues-199b84201/)](https://www.linkedin.com/in/marcos-rodrigues-199b84201/)
 
 ### :notebook: Conhecimentos
 
@@ -12,8 +13,6 @@ Em busca de uma oportunidade para por meus conhecimentos em pratica e também pa
 - Java
 - SQL
 - HTML, CSS e JavaScript
-- Inglês básico
-- Conceitos de gestão financeira
 
 ### :hammer: Ferramentas
 
